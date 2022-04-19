@@ -2,10 +2,4 @@ h5py
 matplotlib
 numpy-stl
 scipy
-warnings
 sys
-time
-os
-mpl_toolkits
-tabulate
-stl
