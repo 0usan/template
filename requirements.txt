@@ -1,4 +1,3 @@
-h5py
 matplotlib
 numpy-stl
 scipy
